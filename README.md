@@ -1,0 +1,1 @@
+# 2D-Image-Classification-using-Hybrid-Learning-of-Handcrafted-Features-and-Deep--Activated-Features
